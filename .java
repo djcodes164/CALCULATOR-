@@ -13,7 +13,8 @@ public class Calculator {
 		System.out.println("Functions:");
 		System.out.println("1.Add");
 		System.out.println("2.Sub");
-		System.out.println("3.Multiply");                   System.out.println("4.Divide");
+		System.out.println("3.Multiply");                 
+		System.out.println("4.Divide");
 		System.out.println("5.EXIT");
 		System.out.println("Enter your choice=");
 		int choice  =sc.nextInt();
