@@ -3,7 +3,8 @@ public class Calculator {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 	boolean run=true ;	
-	while(run){// We put this in loop so that after one operation is completed,  the program wiil not end 
+	while(run){// We put this in loop so that after
+		//one operation is completed,  the program wiil not end 
 		System.out.println("Enter First no.");
 	     float a =sc.nextFloat();
 	     System.out.println("Enter Second no.");
